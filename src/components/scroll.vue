@@ -1,5 +1,8 @@
 <template>
-  <div>123</div>
+  <div>
+    <div>123</div>
+    <img src="@/assets/image/111.png" alt="" />
+  </div>
 </template>
 
 <script>
