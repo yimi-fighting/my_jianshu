@@ -28,7 +28,7 @@
       </div>
     </div>
     <div class="right" v-if="paper.img">
-      <img :src="paper.img" alt="" />
+      <img :src="paper.img" loading="lazy" alt="" />
     </div>
   </div>
 </template>
